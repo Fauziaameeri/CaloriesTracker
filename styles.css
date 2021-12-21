@@ -1,0 +1,18 @@
+body {
+    width: 960px;
+    margin: 0 auto;
+
+    display: grid;
+    grid-template-columns: 1fr 1.5fr;
+}
+
+img {
+    width: 100%;
+}
+
+main {
+    background-color: lightBlue;
+    width:400px;
+    margin-left: 100px;
+    border: 3px solid #6d6dec;
+}
